@@ -1,0 +1,12 @@
+bbangshop\PolicyHandler.class
+bbangshop\AssignmentRepository.class
+bbangshop\AssignmentController.class
+bbangshop\ReservationCanceled.class
+bbangshop\AbstractEvent$1.class
+bbangshop\ReservationCancelRequested.class
+bbangshop\Assignment.class
+bbangshop\config\kafka\KafkaProcessor.class
+bbangshop\AbstractEvent.class
+bbangshop\ReservationAccepted.class
+bbangshop\ReservationRequested.class
+bbangshop\AssignmentApplication.class
